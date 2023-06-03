@@ -1,0 +1,100 @@
+{
+  "universityName": "NTU-DP",
+  "universityHead": {
+    "name": "Kateryna",
+    "surname": "Pipa",
+    "patronymic": "Ihoryvna",
+    "sex": "FEMALE"
+  },
+  "faculties": [
+    {
+      "facultyHead": {
+        "name": "Kateryna",
+        "surname": "Pipa",
+        "patronymic": "Ihoryvna",
+        "sex": "FEMALE"
+      },
+      "departmentsCount": 2,
+      "departments": [
+        {
+          "groupsCount": 0,
+          "groups": [
+            {
+              "studentsCount": 2,
+              "students": [
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "studentsCount": 2,
+              "students": [
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupsCount": 0,
+          "groups": [
+            {
+              "studentsCount": 2,
+              "students": [
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "studentsCount": 2,
+              "students": [
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Kateryna",
+                  "surname": "Pipa",
+                  "patronymic": "Ihoryvna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
